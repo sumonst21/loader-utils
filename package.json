@@ -30,7 +30,7 @@
     "eslint-plugin-prettier": "^3.0.0",
     "jest": "^21.2.1",
     "prettier": "^1.15.3",
-    "standard-version": "^4.0.0"
+    "standard-version": "^9.5.0"
   },
   "main": "lib/index.js",
   "files": [
